@@ -109,7 +109,7 @@
               <div class="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
                 <div>
                   <p class="text-md text-gray-900">
-                    Decided if subsequent statements are higher or lower.
+                    Decide if subsequent statements are higher or lower.
                   </p>
                 </div>
               </div>

@@ -662,7 +662,7 @@ var app = (function () {
     			div15 = element("div");
     			div14 = element("div");
     			p2 = element("p");
-    			p2.textContent = "Decided if subsequent statements are higher or lower.";
+    			p2.textContent = "Decide if subsequent statements are higher or lower.";
     			t16 = space();
     			button = element("button");
     			button.textContent = "Let's GO!";
@@ -760,7 +760,7 @@ var app = (function () {
     			add_location(div18, file$2, 21, 4, 657);
     			add_location(div19, file$2, 19, 2, 567);
     			attr_dev(button, "class", "px-5 py-2 bg-gray-100 text-gray-900 text-lg font-semibold shadow-lg rounded-sm");
-    			add_location(button, file$2, 121, 2, 4658);
+    			add_location(button, file$2, 121, 2, 4657);
     			attr_dev(div20, "class", "flex flex-col items-center gap-10 py-10");
     			add_location(div20, file$2, 4, 0, 56);
     		},
