@@ -70,7 +70,7 @@
             Choose a statement to start.
         </h1>
         <div
-                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold whitespace-nowrap"
+                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold"
         >
             {firstStatement.statement}
             <button
@@ -86,7 +86,7 @@
         </div>
 
         <div
-                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold whitespace-nowrap"
+                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold"
         >
             {secondStatement.statement}
             <span class="ml-3 text-2xl text-gray-800 font-bold"
@@ -104,7 +104,7 @@
         </div>
     {:else if gameStatus === "ACTIVE"}
         <div
-                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold whitespace-nowrap"
+                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold"
         >
             {statement.statement}<br>
             <span class="text-gray-400">(Previous: {previousNumber.toLocaleString('en')})</span>
