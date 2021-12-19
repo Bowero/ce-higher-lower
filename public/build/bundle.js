@@ -949,37 +949,37 @@ var app = (function () {
     			svg1 = svg_element("svg");
     			path1 = svg_element("path");
     			t8 = text("\n                Lower");
-    			add_location(br, file$1, 108, 33, 3742);
+    			add_location(br, file$1, 108, 33, 3746);
     			attr_dev(span, "class", "text-gray-400");
-    			add_location(span, file$1, 109, 12, 3759);
+    			add_location(span, file$1, 109, 12, 3763);
     			attr_dev(div0, "class", "text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold");
-    			add_location(div0, file$1, 105, 8, 3603);
+    			add_location(div0, file$1, 105, 8, 3607);
     			attr_dev(path0, "fill-rule", "evenodd");
     			attr_dev(path0, "d", "M5.293 9.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V15a1 1 0 11-2 0V7.414L6.707 9.707a1 1 0 01-1.414 0z");
     			attr_dev(path0, "clip-rule", "evenodd");
-    			add_location(path0, file$1, 125, 20, 4572);
+    			add_location(path0, file$1, 125, 20, 4576);
     			attr_dev(svg0, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg0, "class", "-ml-1 mr-2 h-5 w-5");
     			attr_dev(svg0, "viewBox", "0 0 20 20");
     			attr_dev(svg0, "fill", "currentColor");
-    			add_location(svg0, file$1, 119, 16, 4331);
+    			add_location(svg0, file$1, 119, 16, 4335);
     			attr_dev(button0, "type", "button");
     			attr_dev(button0, "class", "inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-sm text-white bg-yellow-600 hover:bg-yellow-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500");
-    			add_location(button0, file$1, 112, 12, 3928);
+    			add_location(button0, file$1, 112, 12, 3932);
     			attr_dev(path1, "fill-rule", "evenodd");
     			attr_dev(path1, "d", "M14.707 10.293a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 111.414-1.414L9 12.586V5a1 1 0 012 0v7.586l2.293-2.293a1 1 0 011.414 0z");
     			attr_dev(path1, "clip-rule", "evenodd");
-    			add_location(path1, file$1, 147, 20, 5588);
+    			add_location(path1, file$1, 147, 20, 5592);
     			attr_dev(svg1, "xmlns", "http://www.w3.org/2000/svg");
     			attr_dev(svg1, "class", "-ml-1 mr-2 h-5 w-5");
     			attr_dev(svg1, "viewBox", "0 0 20 20");
     			attr_dev(svg1, "fill", "currentColor");
-    			add_location(svg1, file$1, 141, 16, 5347);
+    			add_location(svg1, file$1, 141, 16, 5351);
     			attr_dev(button1, "type", "button");
     			attr_dev(button1, "class", "inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-sm text-white bg-yellow-600 hover:bg-yellow-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500");
-    			add_location(button1, file$1, 134, 12, 4945);
+    			add_location(button1, file$1, 134, 12, 4949);
     			attr_dev(div1, "class", "px-6 py-4 flex items-center gap-20");
-    			add_location(div1, file$1, 111, 8, 3867);
+    			add_location(div1, file$1, 111, 8, 3871);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -1072,19 +1072,19 @@ var app = (function () {
     			button1 = element("button");
     			button1.textContent = "Highest";
     			attr_dev(h1, "class", "text-gray-900 font-bold text-2xl mb-5");
-    			add_location(h1, file$1, 68, 8, 2285);
+    			add_location(h1, file$1, 68, 8, 2289);
     			attr_dev(button0, "type", "button");
     			attr_dev(button0, "class", "px-4 py-3 uppercase rounded-sm text-sm font-semibold text-gray-100 bg-yellow-600");
-    			add_location(button0, file$1, 75, 12, 2579);
+    			add_location(button0, file$1, 75, 12, 2583);
     			attr_dev(div0, "class", "text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold w-full justify-between");
-    			add_location(div0, file$1, 71, 8, 2399);
+    			add_location(div0, file$1, 71, 8, 2403);
     			attr_dev(button1, "type", "button");
     			attr_dev(button1, "class", "px-4 py-3 uppercase rounded-sm text-sm font-semibold text-gray-100 bg-yellow-600");
-    			add_location(button1, file$1, 93, 12, 3201);
+    			add_location(button1, file$1, 93, 12, 3205);
     			attr_dev(span, "class", "ml-3 text-2xl text-gray-800 font-bold");
-    			add_location(span, file$1, 91, 12, 3123);
+    			add_location(span, file$1, 91, 12, 3127);
     			attr_dev(div1, "class", "text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold w-full justify-between");
-    			add_location(div1, file$1, 87, 8, 2942);
+    			add_location(div1, file$1, 87, 8, 2946);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, h1, anchor);
@@ -1164,14 +1164,14 @@ var app = (function () {
     			button = element("button");
     			button.textContent = "Home";
     			attr_dev(h10, "class", "text-gray-900 text-xl font-semibold");
-    			add_location(h10, file$1, 54, 8, 1566);
+    			add_location(h10, file$1, 54, 8, 1570);
     			attr_dev(h11, "class", "text-lg font-medium text-yellow-700");
-    			add_location(h11, file$1, 55, 8, 1656);
+    			add_location(h11, file$1, 55, 8, 1660);
     			attr_dev(button, "type", "button");
     			attr_dev(button, "class", "inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-sm text-white bg-yellow-600 hover:bg-yellow-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500");
-    			add_location(button, file$1, 57, 12, 1799);
+    			add_location(button, file$1, 57, 12, 1803);
     			attr_dev(div, "class", "px-6 py-4 flex items-center gap-20");
-    			add_location(div, file$1, 56, 8, 1738);
+    			add_location(div, file$1, 56, 8, 1742);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, h10, anchor);
@@ -1232,7 +1232,7 @@ var app = (function () {
     		c: function create() {
     			div = element("div");
     			if (if_block) if_block.c();
-    			attr_dev(div, "class", "flex flex-col justify-center items-center max-w h-full py-24 mx-auto ");
+    			attr_dev(div, "class", "flex flex-col justify-center items-center max-w-3xl h-full py-24 mx-auto ");
     			add_location(div, file$1, 50, 0, 1446);
     		},
     		l: function claim(nodes) {

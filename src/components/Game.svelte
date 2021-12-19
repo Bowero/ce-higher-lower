@@ -49,7 +49,7 @@
 </script>
 
 <div
-        class="flex flex-col justify-center items-center max-w h-full py-24 mx-auto "
+        class="flex flex-col justify-center items-center max-w-3xl h-full py-24 mx-auto "
 >
     {#if gameOver}
         <h1 class="text-gray-900 text-xl font-semibold">Game Over! {gameOverMessage}</h1>
