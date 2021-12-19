@@ -70,7 +70,7 @@
             Choose a statement to start.
         </h1>
         <div
-                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold"
+                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold w-full justify-between"
         >
             {firstStatement.statement}
             <button
@@ -86,7 +86,7 @@
         </div>
 
         <div
-                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold"
+                class="text-yellow-700 py-2 flex items-center text-lg gap-3 font-semibold w-full justify-between"
         >
             {secondStatement.statement}
             <span class="ml-3 text-2xl text-gray-800 font-bold"
